@@ -1,0 +1,64 @@
+These Windows services are started:
+
+   Application Experience
+   Application Information
+   Background Intelligent Transfer Service
+   Base Filtering Engine
+   COM+ Event System
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Desktop Window Manager Session Manager
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Diagnostic System Host
+   Distributed Link Tracking Client
+   Distributed Transaction Coordinator
+   DNS Client
+   Function Discovery Provider Host
+   Function Discovery Resource Publication
+   Group Policy Client
+   HomeGroup Provider
+   IP Helper
+   Microsoft Antimalware Service
+   Microsoft Network Inspection
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Offline Files
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secondary Logon
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   SSDP Discovery
+   System Event Notification Service
+   Tablet PC Input Service
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   TP AutoConnect Service
+   User Profile Service
+   VMware Tools
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Media Player Network Sharing Service
+   Windows Modules Installer
+   Windows Search
+   Windows Update
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+
+The command completed successfully.

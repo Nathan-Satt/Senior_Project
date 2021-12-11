@@ -1,5 +1,8 @@
 What is the clear text of "SW4gcGVhY2UsIG1heSB5b3UgbGVhdmUgdGhlIHNob3JlLiBJbiBsb3ZlLCBtYXkgeW91IGZpbmQgdGhlIG5leHQuIFNhZmUgcGFzc2FnZSBvbiB5b3VyIHRyYXZlbHMgdW50aWwgb3VyIGZpbmFsIGpvdXJuZXkgdG8gdGhlIGdyb3VuZC4gTWF5IHdlIG1lZXQgYWdhaW4u"
 
+Once the text is decoded remove all spaces from the text 
+
+Example ANSWER: Thewholesecretofasuccessfullifeistofindoutwhatisone’sdestinytodo,andthendoit.
 
 
 ANSWER: Inpeace,mayyouleavetheshore.Inlove,mayyoufindthenext.Safepassageonyourtravelsuntilourfinaljourneytotheground.Maywemeetagain.

@@ -4,7 +4,7 @@ Thus your job is to harden this system.
 
 There may or may not be questions located in files located on the dedsktop of the system please read any and all questions before making any changes to the system as doing so may make the question unanserable.
 
-all user accounts should be password protected with secure passwords, this may not be currently enforced on this computer. The presence of any non-work related media files and "hacking tools" on any computers is strictly prohibited.
+all user accounts should be password protected with secure passwords, this may not be currently enforced on this computer. The presence of any non-work related media files and "hacking tools" on any computers is strictly prohibited. Corporate has requested that notepad++ be made avalibe on this system for use.
 
 required Services:
 

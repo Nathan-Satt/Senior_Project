@@ -13,18 +13,18 @@ required Services:
 Authorized Admins:
 CyberTeam! (you)
 	password: CyberTeam!
-frank
+lexa
+clarke
+
 
 
 Authorized Users:
-bob
-steve
-dennis
-josh
-emma
-sarah
-
-
+gabriel
+jasper
+john
+madi
+raven
+bellamy
 
 Competition Guidelines
 

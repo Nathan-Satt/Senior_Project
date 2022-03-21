@@ -13,16 +13,17 @@ required Services:
 Authorized Admins:
 CyberTeam! (you)
 	password: CyberTeam!
-frank
+jet
+spike
 
 
 Authorized Users:
+ed
+ein
+faye
+punch
+judy
 bob
-steve
-dennis
-josh
-emma
-sarah
 
 
 

@@ -3,5 +3,5 @@ Example
 ANSWER: /home/doe/image.png
 
 
-ANSWER: /home/vicious/Pictures/self.png
+ANSWER: /home/vicious/Pictures/self.jpg
 

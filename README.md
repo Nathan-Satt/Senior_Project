@@ -5,4 +5,4 @@ Other software used:
 
     Windows Scoring: https://www.uscyberpatriot.org/competition/training-materials/practice-images
    
-    Ubuntu Scoring: https://github.com/FWSquatch/pysel
+     Ubuntu Scoring: https://github.com/FWSquatch/pysel
